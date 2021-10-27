@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "license": "ISC",
       "dependencies": {
-        "react": "^16.14.0"
+        "react": "^17.0.0"
       }
     },
     "node_modules/js-tokens": {
@@ -95,8 +95,7 @@
       }
     },
     "react": {
-      "version": "16.14.0",
-      "resolved": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",
+      "version": "https://registry.npmjs.org/react/-/react-16.14.0.tgz",
       "integrity": "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==",
       "requires": {
         "loose-envify": "^1.1.0",
